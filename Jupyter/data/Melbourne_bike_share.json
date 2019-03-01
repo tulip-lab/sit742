@@ -1,0 +1,614 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "tdvh-n9dv",
+      "name" : "Melbourne bike share",
+      "attribution" : "City of Melbourne, Australia",
+      "averageRating" : 0,
+      "category" : "Transport & Movement",
+      "createdAt" : 1428898164,
+      "description" : "Melbourne Bike Share is a joint RACV/Victorian Government bicycle hire scheme. This dataset contains the locations of all of the bike share pods, the amount of bikes located at each pod and the number of empty slots at the pod.",
+      "displayType" : "table",
+      "downloadCount" : 1314,
+      "indexUpdatedAt" : 1453946128,
+      "licenseId" : "CC_30_BY_AUS",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 11003321,
+      "publicationAppendEnabled" : true,
+      "publicationDate" : 1429672791,
+      "publicationGroup" : 2657856,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowIdentifierColumnId" : 200082496,
+      "rowsUpdatedAt" : 1453945520,
+      "rowsUpdatedBy" : "xaa8-tsya",
+      "state" : "normal",
+      "tableId" : 2706226,
+      "totalTimesRated" : 0,
+      "viewCount" : 1426,
+      "viewLastModified" : 1453945510,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 200082496,
+        "name" : "ID",
+        "dataTypeName" : "number",
+        "fieldName" : "id",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27624912,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "2",
+          "sum" : "1493",
+          "null" : 0,
+          "average" : "29.86",
+          "largest" : "57",
+          "top" : [ {
+            "count" : 20,
+            "item" : "47"
+          }, {
+            "count" : 19,
+            "item" : "48"
+          }, {
+            "count" : 18,
+            "item" : "49"
+          }, {
+            "count" : 17,
+            "item" : "50"
+          }, {
+            "count" : 16,
+            "item" : "51"
+          }, {
+            "count" : 15,
+            "item" : "52"
+          }, {
+            "count" : 14,
+            "item" : "53"
+          }, {
+            "count" : 13,
+            "item" : "55"
+          }, {
+            "count" : 12,
+            "item" : "57"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 200082497,
+        "name" : "Featurename",
+        "dataTypeName" : "text",
+        "fieldName" : "featurename",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27624913,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "205 Bourke St  near Russell St",
+          "null" : 0,
+          "largest" : "York St / Cecil St",
+          "top" : [ {
+            "count" : 20,
+            "item" : "VCAM - St Kilda Rd / Southbank Blvd"
+          }, {
+            "count" : 19,
+            "item" : "Museum - Rathdowne St"
+          }, {
+            "count" : 18,
+            "item" : "Jolimont Station - Wellington Parade South"
+          }, {
+            "count" : 17,
+            "item" : "ACCA (Australian Centre of Contemporary Art)"
+          }, {
+            "count" : 16,
+            "item" : "Docklands - Collins St (ANZ)"
+          }, {
+            "count" : 15,
+            "item" : "William St / Peel St (Flagstaff Gardens)"
+          }, {
+            "count" : 14,
+            "item" : "Victoria Market - Elizabeth St / Victoria St (NW)"
+          }, {
+            "count" : 13,
+            "item" : "Coventry St / Clarendon St"
+          }, {
+            "count" : 12,
+            "item" : "St Kilda - Fitzroy Street"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 200082498,
+        "name" : "TerminalName",
+        "dataTypeName" : "text",
+        "fieldName" : "terminalname",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27624914,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "60000",
+          "null" : 0,
+          "largest" : "60052",
+          "top" : [ {
+            "count" : 20,
+            "item" : "60040"
+          }, {
+            "count" : 19,
+            "item" : "60041"
+          }, {
+            "count" : 18,
+            "item" : "60042"
+          }, {
+            "count" : 17,
+            "item" : "60043"
+          }, {
+            "count" : 16,
+            "item" : "60044"
+          }, {
+            "count" : 15,
+            "item" : "60048"
+          }, {
+            "count" : 14,
+            "item" : "60049"
+          }, {
+            "count" : 13,
+            "item" : "60050"
+          }, {
+            "count" : 12,
+            "item" : "60052"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 200082499,
+        "name" : "NBBikes",
+        "dataTypeName" : "number",
+        "fieldName" : "nbbikes",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27624915,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "0",
+          "sum" : "507",
+          "null" : 0,
+          "average" : "10.14",
+          "largest" : "29",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16"
+          }, {
+            "count" : 19,
+            "item" : "14"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          }, {
+            "count" : 17,
+            "item" : "7"
+          }, {
+            "count" : 16,
+            "item" : "17"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "1"
+          }, {
+            "count" : 13,
+            "item" : "4"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "15"
+          }, {
+            "count" : 10,
+            "item" : "10"
+          }, {
+            "count" : 9,
+            "item" : "8"
+          }, {
+            "count" : 8,
+            "item" : "18"
+          }, {
+            "count" : 7,
+            "item" : "29"
+          }, {
+            "count" : 6,
+            "item" : "24"
+          }, {
+            "count" : 5,
+            "item" : "13"
+          }, {
+            "count" : 4,
+            "item" : "22"
+          }, {
+            "count" : 3,
+            "item" : "3"
+          }, {
+            "count" : 2,
+            "item" : "0"
+          }, {
+            "count" : 1,
+            "item" : "12"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 200082500,
+        "name" : "NBEmptydoc",
+        "dataTypeName" : "number",
+        "fieldName" : "nbemptydoc",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27624916,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "0",
+          "sum" : "383",
+          "null" : 0,
+          "average" : "7.66",
+          "largest" : "26",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "4"
+          }, {
+            "count" : 15,
+            "item" : "9"
+          }, {
+            "count" : 14,
+            "item" : "11"
+          }, {
+            "count" : 13,
+            "item" : "0"
+          }, {
+            "count" : 12,
+            "item" : "18"
+          }, {
+            "count" : 11,
+            "item" : "7"
+          }, {
+            "count" : 10,
+            "item" : "8"
+          }, {
+            "count" : 9,
+            "item" : "3"
+          }, {
+            "count" : 8,
+            "item" : "22"
+          }, {
+            "count" : 7,
+            "item" : "20"
+          }, {
+            "count" : 6,
+            "item" : "26"
+          }, {
+            "count" : 5,
+            "item" : "10"
+          }, {
+            "count" : 4,
+            "item" : "13"
+          }, {
+            "count" : 3,
+            "item" : "16"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 200083809,
+        "name" : "UploadDate",
+        "dataTypeName" : "date",
+        "fieldName" : "uploaddate",
+        "position" : 6,
+        "renderTypeName" : "date",
+        "tableColumnId" : 27624917,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : 1446210006,
+          "null" : 0,
+          "largest" : 1446706808,
+          "top" : [ {
+            "count" : 20,
+            "item" : 1446706807
+          }, {
+            "count" : 19,
+            "item" : 1446210006
+          }, {
+            "count" : 18,
+            "item" : 1446706808
+          } ]
+        },
+        "format" : {
+          "view" : "date_dmy_time",
+          "align" : "left"
+        }
+      }, {
+        "id" : 200082502,
+        "name" : "Coordinates",
+        "dataTypeName" : "location",
+        "fieldName" : "coordinates",
+        "position" : 7,
+        "renderTypeName" : "location",
+        "tableColumnId" : 27624918,
+        "width" : 186,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : {
+            "longitude" : "144.939521",
+            "latitude" : "-37.814022",
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "144.939521",
+            "latitude" : "-37.814022",
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "144.970085",
+              "latitude" : "-37.824088",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "144.969609",
+              "latitude" : "-37.803868",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "144.982006",
+              "latitude" : "-37.816731",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "144.966542",
+              "latitude" : "-37.826578",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "144.944488",
+              "latitude" : "-37.821568",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "144.955223",
+              "latitude" : "-37.809216",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "144.959017",
+              "latitude" : "-37.806091",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "144.960818",
+              "latitude" : "-37.831776",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "144.978818",
+              "latitude" : "-37.858655",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+          "view" : "coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons Attribution 3.0 Australia",
+        "logoUrl" : "images/licenses/cc30by.png",
+        "termsLink" : "http://creativecommons.org/licenses/by/3.0/au/deed.en"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Melbourne Metadata" : {
+            "Original upload date" : "13/04/2015",
+            "Spatial dataset" : "Yes",
+            "Last Updated" : "13/04/2015",
+            "Version number" : "1.10.010",
+            "Data Completeness statement: Has the full dataset been included, or has a subset been excluded? Why?" : "All data has been included",
+            "Update Frequency" : "Every 15 minutes",
+            "Data Quality" : "5 Star"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "200082496",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "xcv7-86fp",
+        "displayName" : "City of Melbourne",
+        "profileImageUrlLarge" : "/api/users/xcv7-86fp/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/xcv7-86fp/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/xcv7-86fp/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "City of Melbourne",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "xcv7-86fp",
+        "displayName" : "City of Melbourne",
+        "profileImageUrlLarge" : "/api/users/xcv7-86fp/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/xcv7-86fp/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/xcv7-86fp/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "City of Melbourne",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story" ]
+      },
+      "tags" : [ "bike share", "bike", "bicycle", "entrepreneur", "eventsplanner" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 155, "7C09387D-9E6C-4B42-9041-9A98B88F54BB", 155, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "2", "Harbour Town - Docklands Dve - Docklands", "60000", "9", "14", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.814022", "144.939521", null, false ] ]
+, [ 156, "52739A59-E034-436B-A613-E7A5F62448C0", 156, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "4", "Federation Square - Flinders St / Swanston St - City", "60001", "11", "11", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.817523", "144.967814", null, false ] ]
+, [ 157, "7EFB5219-2764-47CE-A497-B6D872823BBE", 157, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "5", "Plum Garland Reserve - Beaconsfield Pde - Albert Park", "60002", "16", "1", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.84782", "144.948196", null, false ] ]
+, [ 158, "4B09D743-FFEE-4185-B968-A7866E45FE0B", 158, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "6", "State Library - Swanston St / Little Lonsdale St - City", "60003", "9", "2", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.810702", "144.964417", null, false ] ]
+, [ 159, "C5493850-5714-40E2-9A67-DA443A4F64F8", 159, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "7", "Bourke Street Mall - 205 Bourke St - City", "60004", "10", "1", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.813088", "144.967437", null, false ] ]
+, [ 160, "1130BB85-AE44-4706-89AD-91B3B6AF15CF", 160, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "8", "Melbourne Uni - Tin Alley - Carlton", "60005", "2", "17", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.79625", "144.960858", null, false ] ]
+, [ 161, "37EE6B9B-D06F-493E-9263-F9708FCFDB33", 161, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "9", "RMIT - Swanston St / Franklin St - City", "60006", "11", "0", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.807699", "144.963095", null, false ] ]
+, [ 162, "EBE9EF80-BF46-4553-968D-DF94EB556268", 162, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "10", "St Paul's Cathedral - Swanston St / Flinders St - City", "60007", "4", "7", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.817189", "144.967409", null, false ] ]
+, [ 163, "635C91D4-127F-4C5E-AAFD-967D04900027", 163, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "11", "MSAC - Aughtie Dve - Albert Park", "60008", "11", "16", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.842395", "144.961868", null, false ] ]
+, [ 164, "AA5B6285-EEDD-4102-A5B5-0AD25BB7FB8D", 164, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "12", "Fitzroy Town Hall - Moor St - Fitzroy", "60009", "3", "4", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.801813", "144.979209", null, false ] ]
+, [ 165, "4E10C43A-8DE3-4FE0-96B5-17BEF69EB2DA", 165, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "15", "Coventry St / St Kilda Rd - Southbank", "60017", "5", "6", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.828887", "144.970822", null, false ] ]
+, [ 166, "59632E91-08BE-40D4-A863-51A28D7CB5F3", 166, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "16", "NAB - Harbour Esp / Bourke St - Docklands", "60011", "13", "20", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.818306", "144.945923", null, false ] ]
+, [ 167, "EAF2E40E-3E0C-4FDE-AD1E-7667A77411D7", 167, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "17", "Yarra's Point - Lorimer St / Yarra River - Docklands", "60024", "5", "9", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.823805", "144.943051", null, false ] ]
+, [ 168, "8A211E44-3AC2-48FB-832E-47B4E5B2DA9E", 168, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "18", "Argyle Square - Lygon St - Carlton", "60021", "0", "11", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.802129", "144.96677", null, false ] ]
+, [ 170, "E50ADBDC-8B95-456F-A92B-91FB44A11FEB", 170, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "20", "Parliament Station - Nicholson St / Albert St - City", "60025", "8", "7", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.809072", "144.972762", null, false ] ]
+, [ 171, "F83F8106-F883-4E8A-92F1-95850DAA0E36", 171, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "21", "Bridport St / Montague St - Albert Park", "60014", "6", "17", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.840885", "144.955303", null, false ] ]
+, [ 172, "C59C7CA0-A02E-40D3-9667-39DC9EB3B03D", 172, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "22", "Pickles St / Ingles St - Port Melbourne", "60027", "12", "11", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.835803", "144.94852", null, false ] ]
+, [ 173, "5BD9B795-6F53-46E8-8A96-A10321D2BB65", 173, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "23", "Yarra's Edge - River Esp / Yarra River - Docklands", "60015", "10", "1", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.824468", "144.946033", null, false ] ]
+, [ 174, "33D0B004-3202-47A2-91F2-AD89B0666CD2", 174, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "24", "North Melbourne Station - Adderley St - North Melbourne", "60038", "7", "8", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.807021", "144.941854", null, false ] ]
+, [ 175, "589A56B0-E7A8-4D88-ADAA-A9804D6F106F", 175, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "25", "Sandridge Bridge - Southbank", "60026", "0", "27", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.820836", "144.962266", null, false ] ]
+, [ 176, "6EDC4391-3FED-4FA2-B744-F3FD14CB7005", 176, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "26", "Beach St - Port Melbourne", "60029", "17", "22", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.841954", "144.935296", null, false ] ]
+, [ 177, "084EA824-DB3F-4D4D-A32B-1D56DECC42A6", 177, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "27", "New Quay Prom / Harbour Esp - Docklands", "60028", "4", "23", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.814117", "144.944081", null, false ] ]
+, [ 178, "0ADD1AA0-18C5-4651-92D2-E2857C30CDA7", 178, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "28", "Queensbridge St / Yarra River - Southbank", "60035", "4", "11", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.821071", "144.961113", null, false ] ]
+, [ 179, "CE0A1000-AD4E-4522-9AFF-03CCFAB4B6C7", 179, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "29", "Southern Cross Station - Spencer St - City", "60034", "0", "26", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.818124", "144.953581", null, false ] ]
+, [ 180, "325ED8D1-B7B3-4D8B-8322-AAAEEE91F501", 180, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "30", "Gasworks Arts Park - Pickles St - Albert Park", "60023", "6", "5", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.842174", "144.946051", null, false ] ]
+, [ 181, "D03B2082-EFCE-4197-A761-47F5953F8F3C", 181, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "31", "Cleve Gardens - Fitzroy St - St Kilda", "60032", "10", "5", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.861984", "144.97341", null, false ] ]
+, [ 182, "550A5A60-CF0E-4615-B5FE-E391D6D82105", 182, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "32", "West Beach Pavilion - Beaconsfield Pde - St Kilda West", "60030", "8", "7", 1453985105, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.858553", "144.969101", null, false ] ]
+, [ 183, "4D352150-8BE5-491D-A468-69FB41A50353", 183, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "33", "Siddeley St / Seafarers Bridge - Docklands", "60031", "19", "4", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.823124", "144.951918", null, false ] ]
+, [ 184, "E03921EE-0B31-43F0-920E-5E1E02098437", 184, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "34", "RACV - Bourke St / New Chancery Ln - City", "60013", "8", "3", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.815505", "144.959278", null, false ] ]
+, [ 185, "8A0F1BC0-5386-4BED-97BF-B57D0F0152A3", 185, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "35", "Yorkshire Brewery - Wellington St - Collingwood", "60033", "3", "4", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.805997", "144.986953", null, false ] ]
+, [ 186, "F8475211-428F-4DCB-96C6-08207FDAAF74", 186, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "36", "Napier St / Victoria Pde - Fitzroy", "60022", "7", "4", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.808266", "144.979005", null, false ] ]
+, [ 187, "609E776E-AB71-47AD-8A50-CB925EC7EF37", 187, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "37", "University Square - Grattan St - Carlton", "60045", "4", "11", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.800214", "144.960313", null, false ] ]
+, [ 188, "61B9BAE6-0E20-41BA-B3E5-8B0F050EB42C", 188, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "38", "Aquarium - Kings Way / Flinders St - City", "60046", "7", "4", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.821324", "144.958318", null, false ] ]
+, [ 189, "A098BBA8-C74E-4CDE-95F7-2915BBCB4D8B", 189, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "39", "Richmond Station - Brunton Ave - East Melbourne", "60020", "12", "7", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.822962", "144.988507", null, false ] ]
+, [ 190, "C839809C-AD68-4FB6-9A3D-93C4A84632E8", 190, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "40", "Rod Laver Arena - Batman Ave / Swan St - City", "60047", "11", "11", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.822987", "144.978459", null, false ] ]
+, [ 191, "686B6908-C48E-4626-8E86-FCA3D45175C4", 191, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "41", "Domain Interchange - Park St / St Kilda Rd - Melbourne", "60016", "14", "1", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.832396", "144.971678", null, false ] ]
+, [ 192, "D5B41F96-AB9D-4CCA-9862-9FD410E7DF2F", 192, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "42", "Kings Way / St Kilda Rd - Melbourne", "60018", "18", "8", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.836323", "144.975162", null, false ] ]
+, [ 193, "45E235B6-993C-4927-8741-EE2651101735", 193, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "43", "Spring St / Collins St - City", "60019", "8", "3", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.813774", "144.974054", null, false ] ]
+, [ 194, "08F09E48-9FB6-4E8F-A3FF-5D57CDB5D700", 194, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "44", "Queens Rd / Bowen Cres - Melbourne", "60036", "10", "5", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.835383", "144.973699", null, false ] ]
+, [ 195, "E0DCF7FB-3562-48A2-9637-23241D1A5A71", 195, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "45", "Luna Park - Lower Esp - St Kilda", "60037", "21", "18", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.867068", "144.976428", null, false ] ]
+, [ 196, "7F84D0CB-B469-4D64-8980-40165B502EA2", 196, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "46", "South Melbourne Market - York St / Cecil St - South Melbourne", "60039", "9", "6", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.831475", "144.957511", null, false ] ]
+, [ 197, "6882C51B-0A33-4596-A62C-5F2F79AC7D92", 197, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "47", "VCAM - St Kilda Rd / Southbank Blvd - Southbank", "60040", "6", "5", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.824088", "144.970085", null, false ] ]
+, [ 198, "2BC742C3-CDD4-43C5-94F9-674D78EDCFB3", 198, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "48", "Museum - Rathdowne St - Carlton", "60041", "4", "11", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.803868", "144.969609", null, false ] ]
+, [ 199, "8EF503F8-ADF0-4BAA-8C7F-ED39AE5E8196", 199, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "49", "Jolimont Station - Wellington Pde South - East Melbourne", "60042", "3", "8", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.816731", "144.982006", null, false ] ]
+, [ 200, "3F1BF86C-DC07-4395-9CD3-0A8D729C23AF", 200, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "50", "ACCA - Sturt St - Southbank", "60043", "15", "8", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.826578", "144.966542", null, false ] ]
+, [ 201, "FE678EF7-468B-4594-AF13-57858D566267", 201, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "51", "ANZ - Collins St - Docklands", "60044", "9", "10", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.821568", "144.944488", null, false ] ]
+, [ 202, "A5EFB6BA-5E93-4171-978B-8981B324B0A2", 202, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "52", "Flagstaff Gardens - Peel St - West Melbourne", "60048", "6", "5", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.809216", "144.955223", null, false ] ]
+, [ 203, "D531339E-DBBC-42B8-8937-8A2D8433C792", 203, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "53", "Victoria Market - Elizabeth St / Victoria St - City", "60049", "15", "10", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.806091", "144.959017", null, false ] ]
+, [ 204, "75FC6E82-0B5C-45DD-800E-3FFD5AD0B359", 204, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "55", "Coventry St / Clarendon St - South Melbourne", "60050", "7", "4", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.831776", "144.960818", null, false ] ]
+, [ 205, "223A0CB0-60DD-4166-82F0-C2D181086C8E", 205, 1428899388, "880594", 1453945520, "880594", "{\n  \"invalidCells\" : {\n    \"27624917\" : \"22/04/2015\"\n  }\n}", "57", "Fitzroy Street - St Kilda", "60052", "17", "14", 1453985106, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-37.858655", "144.978818", null, false ] ]
+ ]
+}
