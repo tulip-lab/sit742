@@ -25,7 +25,7 @@ Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 * Week 01: Python Programming
   * SIT742P01A: Python and Notebook
   * SIT742P01B: Control Structure and Data Structure
-  * SIT742P01C: Functions and OO Programming
+  * SIT742P01C: Functions and OO Programming  (*Optional*)
   * SIT742P01D: Text Processing
 * Week 02: A Touch of Data Science
   * SIT742P02A: Packages and Data
@@ -35,7 +35,7 @@ Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
   * SIT742P03A: Data Wrangling
   * SIT742P03B: Parsing CSV, JSON Files
   * SIT742P03C: Parsing XML Files
-  * SIT742P03D: Parsing Excel Files
+  * SIT742P03D: Parsing Excel Files  (*Optional*)
 * Week 04: Text Analysis
   * SIT742P04A: Text Preprocessing
   * SIT742P04B: Generating Text Features 
