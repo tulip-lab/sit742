@@ -34,7 +34,7 @@ Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 * Week 03: Data Wrangling
   * SIT742P03A: Data Wrangling
   * SIT742P03B: Parsing CSV, JSON Files
-  * SIT742P03C: Parsing XML Files
+  * SIT742P03C: Parsing XML Files  (*Optional*)
   * SIT742P03D: Parsing Excel Files  (*Optional*)
 * Week 04: Text Analysis
   * SIT742P04A: Text Preprocessing
