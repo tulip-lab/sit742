@@ -20,6 +20,10 @@ Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 
 ## Content
 
+You are recommended to use Cloud platform to run the materials, such as:
+
+- [Google Colab](http://colab.research.google.com)
+
 ### `Jupyter`
 
 * Week 01: Python Programming
