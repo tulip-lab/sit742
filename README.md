@@ -48,7 +48,27 @@ You are recommended to use Cloud platform to run the materials, such as:
   * SIT742P05A: Exploratory Data Analysis
   * SIT742P05B: Matplotlib  (*Optional*)
   * SIT742P05C: Pyplot  (*Optional*)
-* ...
+* Week 06: Big Data Platform (I)
+  * SIT742P06A: Apache Spark
+  * SIT742P06B: Case Study: Word Counting in Text  (*Optional*)
+* Week 07: Big Data Platform (II)
+  * SIT742P07A: Apache Spark SQL
+  * SIT742P07B: Apache Spark MLlib (1)
+  * SIT742P07C: Apache Spark MLlib (2)
+* Week 08: Data Analytics (I)
+  * SIT742P08A: SciPy and Scikit Packages
+  * SIT742P08B: Supervised Learning
+  * SIT742P08C: 
+* Week 09: Data Analytics (II)
+  * SIT742P09A: Unsupervised Learning
+  * SIT742P09B: Isolation Forest  (*Optional*)
+* Week 10: Data Analytics (III)
+  * SIT742P09A: Apache Spark MLlib (3)
+  * SIT742P09B: Apache Spark MLlib (4)
+* Week 11: Data Analytics (III)
+  * SIT742P11A: Case Study - Prediction
+  * SIT742P11B: Machine Learning System
+  
 
 ### `Assessment` 
 
