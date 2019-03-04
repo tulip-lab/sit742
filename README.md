@@ -29,17 +29,17 @@ You are recommended to use Cloud platform to run the materials, such as:
 * Week 01: Python Programming
   * [SIT742P01A: Python and Notebook](Jupyter/SIT742P01A-Python.ipynb)
   * [SIT742P01B: Control Structure and Data Structure](Jupyter/SIT742P01B-ControlAdvData.ipynb)
-  * SIT742P01C: Functions and OO Programming  (*Optional*)
-  * SIT742P01D: Text Processing
+  * [SIT742P01C: Functions and OO Programming](Jupyter/SIT742P01C-FunctionOO.ipynb)  (*Optional*)
+  * [SIT742P01D: Text Processing](Jupyter/SIT742P01D-TextProcess.ipynb)
 * Week 02: A Touch of Data Science
-  * SIT742P02A: Packages and Data
-  * SIT742P02B: NumPy
-  * SIT742P02C: Pandas
+  * [SIT742P02A: Packages and Data](Jupyter/SIT742P02A-PackagesAndData.ipynb)
+  * [SIT742P02B: NumPy](Jupyter/SIT742P02B-StructuredDataNumPy.ipynb)
+  * [SIT742P02C: Pandas](Jupyter/SIT742P02C-OperationsinPandas.ipynb)
 * Week 03: Data Wrangling
-  * SIT742P03A: Data Wrangling
-  * SIT742P03B: Parsing CSV, JSON Files
-  * SIT742P03C: Parsing XML Files  (*Optional*)
-  * SIT742P03D: Parsing Excel Files  (*Optional*)
+  * [SIT742P03A: Data Wrangling](Jupyter/SIT742P03A-DataWrangling.ipynb)
+  * [SIT742P03B: Parsing CSV, JSON Files](Jupyter/SIT742P03B-ParsingCSVJSONFiles.ipynb)
+  * [SIT742P03C: Parsing XML Files](Jupyter/SIT742P03C-ParsingXMLFiles.ipynb)  (*Optional*)
+  * [SIT742P03D: Parsing Excel Files](Jupyter/SIT742P03D-ParsingExcelFiles.ipynb)  (*Optional*)
 * Week 04: Text Analysis
   * SIT742P04A: Text Preprocessing
   * SIT742P04B: Generating Text Features 
