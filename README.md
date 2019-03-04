@@ -65,9 +65,9 @@ You are recommended to use Cloud platform to run the materials, such as:
 * Week 10: Data Analytics (III)
   * SIT742P09A: Apache Spark MLlib (3)
   * SIT742P09B: Apache Spark MLlib (4)
-* Week 11: Data Analytics (III)
+* Week 11: Data Analytics (IV)
   * SIT742P11A: Case Study - Prediction
-  * SIT742P11B: Machine Learning System
+  * SIT742P11B: Machine Learning System (*Optional*)
   
 
 ### `Assessment` 
