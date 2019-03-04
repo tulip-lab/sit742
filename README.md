@@ -27,8 +27,8 @@ You are recommended to use Cloud platform to run the materials, such as:
 ### `Jupyter`
 
 * Week 01: Python Programming
-  * SIT742P01A: Python and Notebook
-  * SIT742P01B: Control Structure and Data Structure
+  * [SIT742P01A: Python and Notebook](Jupyter/SIT742P01A-Python.ipynb)
+  * [SIT742P01B: Control Structure and Data Structure](Jupyter/SIT742P01B-ControlAdvData.ipynb)
   * SIT742P01C: Functions and OO Programming  (*Optional*)
   * SIT742P01D: Text Processing
 * Week 02: A Touch of Data Science
@@ -49,7 +49,7 @@ You are recommended to use Cloud platform to run the materials, such as:
   * SIT742P05B: Matplotlib  (*Optional*)
   * SIT742P05C: Pyplot  (*Optional*)
 * Week 06: Big Data Platform (I)
-  * SIT742P06A: Apache Spark
+  * [SIT742P06A: Apache Spark]
   * SIT742P06B: Case Study: Word Counting in Text  (*Optional*)
 * Week 07: Big Data Platform (II)
   * SIT742P07A: Apache Spark SQL
