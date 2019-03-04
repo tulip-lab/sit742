@@ -10,7 +10,7 @@ Prepared by **SIT742 Teaching Team**
 
 ---
 
-## Video Casting
+## Lab Session related Screen Casting on YouTube
 
 - [SIT742: Modern Data Science](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
 
@@ -41,35 +41,38 @@ You are recommended to use Cloud platform to run the materials, such as:
   * [SIT742P03C: Parsing XML Files](Jupyter/SIT742P03C-ParsingXMLFiles.ipynb)  (*Optional*)
   * [SIT742P03D: Parsing Excel Files](Jupyter/SIT742P03D-ParsingExcelFiles.ipynb)  (*Optional*)
 * Week 04: Text Analysis
-  * SIT742P04A: Text Preprocessing
-  * SIT742P04B: Generating Text Features 
-  * SIT742P04C: More on Regular Expression  (*Optional*)
+  * [SIT742P04A: Text Preprocessing](Jupyter/SIT742P04A-TextPreprocessing.ipynb)
+  * [SIT742P04B: Generating Text Features](Jupyter/SIT742P04B-TextFeatures.ipynb) 
+  * [SIT742P04C: More on Regular Expression](Jupyter/SIT742P04C-MoreRegEx.ipynb)  (*Optional*)
 * Week 05: Data Visualization
-  * SIT742P05A: Exploratory Data Analysis
-  * SIT742P05B: Matplotlib  (*Optional*)
-  * SIT742P05C: Pyplot  (*Optional*)
+  * [SIT742P05A: Exploratory Data Analysis](Jupyter/SIT742P05A-ExploratoryDA.ipynb)
+  * [SIT742P05B: Matplotlib](Jupyter/SIT742P05B-Matplotlib.ipynb)  (*Optional*)
+  * [SIT742P05C: Pyplot](Jupyter/SIT742P05C-Pyplot.ipynb)  (*Optional*)
 * Week 06: Big Data Platform (I)
-  * [SIT742P06A: Apache Spark]
-  * SIT742P06B: Case Study: Word Counting in Text  (*Optional*)
+  * [SIT742P06A: Apache Spark](Jupyter/SIT742P06A-Spark.ipynb)
+  * [SIT742P06B: Case Study: Word Counting in Text](Jupyter/SIT742P06B-CS-WordCount.ipynb)  (*Optional*)
 * Week 07: Big Data Platform (II)
-  * SIT742P07A: Apache Spark SQL
-  * SIT742P07B: Apache Spark MLlib (1)
-  * SIT742P07C: Apache Spark MLlib (2)
+  * [SIT742P07A: Apache Spark SQL](Jupyter/SIT742P07A-SparkSQL.ipynb)
+  * [SIT742P07B: Apache Spark MLlib (1)](Jupyter/SIT742P07B-MLlib-DataType.ipynb)
+  * [SIT742P07C: Apache Spark MLlib (2)](Jupyter/SIT742P07C-MLlib-OHE.ipynb)
 * Week 08: Data Analytics (I)
-  * SIT742P08A: SciPy and Scikit Packages
-  * SIT742P08B: Supervised Learning
-  * SIT742P08C: 
+  * [SIT742P08A: SciPy and Scikit Packages](Jupyter/SIT742P08A-SciPyScikit.ipynb)
+  * [SIT742P08B: Supervised Learning](Jupyter/SIT742P08B-Supervised.ipynb)
 * Week 09: Data Analytics (II)
-  * SIT742P09A: Unsupervised Learning
-  * SIT742P09B: Isolation Forest  (*Optional*)
+  * [SIT742P09A: Unsupervised Learning](Jupyter/SIT742P09A-Unsupervised.ipynb)
+  * [SIT742P09B: Isolation Forest](Jupyter/SIT742P09B-IsolationForest.ipynb)  (*Optional*)
 * Week 10: Data Analytics (III)
-  * SIT742P09A: Apache Spark MLlib (3)
-  * SIT742P09B: Apache Spark MLlib (4)
+  * [SIT742P09A: Apache Spark MLlib (3)](Jupyter/SIT742P10A-MLlib-Supervised.ipynb)
+  * [SIT742P09B: Apache Spark MLlib (4)](Jupyter/SIT742P10B-MLlib-Unsupervised.ipynb)
 * Week 11: Data Analytics (IV)
-  * SIT742P11A: Case Study - Prediction
-  * SIT742P11B: Machine Learning System (*Optional*)
+  * [SIT742P11A: Case Study - Prediction](Jupyter/SIT742P11A-CS-Prediction.ipynb)
+  * [SIT742P11B: Machine Learning System](Jupyter/SIT742P11B-MLSystem.ipynb) (*Optional*)
   
 
 ### `Assessment` 
 
 * 2019 Assessment Tasks 
+  * [2019 Assessment Task 1](Assessment/2019/SIT742Task1.ipynb)  
+  * [2019 Assessment Task 2](Assessment/2019/SIT742Task2.ipynb)
+
+---
