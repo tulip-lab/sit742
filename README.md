@@ -10,7 +10,7 @@ Prepared by **SIT742 Teaching Team**
 
 ---
 
-## Lab Session related Screen Casting on YouTube
+## Lab Session related ScreenCasting on YouTube
 
 - [SIT742: Modern Data Science](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
 
@@ -23,6 +23,8 @@ Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 You are recommended to use Cloud platform to run the materials, such as:
 
 - [Google Colab](http://colab.research.google.com)
+
+You can safely skip those sessions that are marked with *Optional*
 
 ### `Jupyter`
 
@@ -72,6 +74,10 @@ You are recommended to use Cloud platform to run the materials, such as:
   
 
 ### `Assessment` 
+
+* 2020 Assessment Tasks 
+  * [2020 Assessment Task 1](TBA)
+  * [2020 Assessment Task 2](TBA)
 
 * 2019 Assessment Tasks 
   * [2019 Assessment Task 1](Assessment/2019/SIT742Task1.ipynb)  
