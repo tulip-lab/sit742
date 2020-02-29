@@ -69,8 +69,8 @@ You can safely skip those sessions that are marked with *Optional*
   * [SIT742P10B: Apache Spark MLlib (4)](Jupyter/SIT742P10B-MLlib-Unsupervised.ipynb)
   * [SIT742P10C: Case Study - Classification](Jupyter/SIT742P10C-CS-Classification.ipynb) (*Optional*)
 * Week 11: Data Analytics - Machine Learning System
-  * [SIT742P11A: Case Study - Prediction](Jupyter/SIT742P11A-CS-Prediction.ipynb)
-  * [SIT742P11B: Machine Learning System](Jupyter/SIT742P11B-MLSystem.ipynb) (*Optional*)
+  * [SIT742P11A: Case Study - Prediction](Jupyter/SIT742P11A-CS-Prediction.ipynb) 
+  * [SIT742P11B: Machine Learning System](Jupyter/SIT742P11B-MLSystem.ipynb) 
   
 
 ### `Assessment` 
