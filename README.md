@@ -42,14 +42,14 @@ You can safely skip those sessions that are marked with *Optional*
   * [SIT742P03B: Parsing CSV, JSON Files](Jupyter/SIT742P03B-ParsingCSVJSONFiles.ipynb)
   * [SIT742P03C: Parsing XML Files](Jupyter/SIT742P03C-ParsingXMLFiles.ipynb)  (*Optional*)
   * [SIT742P03D: Parsing Excel Files](Jupyter/SIT742P03D-ParsingExcelFiles.ipynb)  (*Optional*)
-* Week 04: Data Manipulation - Text Analysis
-  * [SIT742P04A: Text Preprocessing](Jupyter/SIT742P04A-TextPreprocessing.ipynb)
-  * [SIT742P04B: Generating Text Features](Jupyter/SIT742P04B-TextFeatures.ipynb) 
-  * [SIT742P04C: More on Regular Expression](Jupyter/SIT742P04C-MoreRegEx.ipynb)  (*Optional*)
-* Week 05: Data Manipulation - Data Visualization
-  * [SIT742P05A: Exploratory Data Analysis](Jupyter/SIT742P05A-ExploratoryDA.ipynb)
-  * [SIT742P05B: Matplotlib](Jupyter/SIT742P05B-Matplotlib.ipynb)  (*Optional*)
-  * [SIT742P05C: Pyplot](Jupyter/SIT742P05C-Pyplot.ipynb)  (*Optional*)
+* Week 04: Data Manipulation - Data Visualization
+  * [SIT742P04A: Exploratory Data Analysis](Jupyter/SIT742P04A-ExploratoryDA.ipynb)
+  * [SIT742P04B: Matplotlib](Jupyter/SIT742P04B-Matplotlib.ipynb)  (*Optional*)
+  * [SIT742P04C: Pyplot](Jupyter/SIT742P04C-Pyplot.ipynb)  (*Optional*)
+* Week 05: Data Manipulation - Text Analysis
+  * [SIT742P05A: Text Preprocessing](Jupyter/SIT742P05A-TextPreprocessing.ipynb)
+  * [SIT742P05B: Generating Text Features](Jupyter/SIT742P05B-TextFeatures.ipynb) 
+  * [SIT742P05C: More on Regular Expression](Jupyter/SIT742P05C-MoreRegEx.ipynb)  (*Optional*)
 * Week 06: Data Analytics - Big Data Platform (I)
   * [SIT742P06A: Apache Spark](Jupyter/SIT742P06A-Spark.ipynb)
   * [SIT742P06B: Case Study: Word Counting in Text](Jupyter/SIT742P06B-CS-WordCount.ipynb)  (*Optional*)
