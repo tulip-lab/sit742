@@ -42,14 +42,17 @@ You can safely skip those sessions that are marked with *Optional*
   * [SIT742P03B: Parsing CSV, JSON Files](Jupyter/SIT742P03B-ParsingCSVJSONFiles.ipynb)
   * [SIT742P03C: Parsing XML Files](Jupyter/SIT742P03C-ParsingXMLFiles.ipynb)  (*Optional*)
   * [SIT742P03D: Parsing Excel Files](Jupyter/SIT742P03D-ParsingExcelFiles.ipynb)  (*Optional*)
+  * [SIT742P03E: Case Study: Twitter Sentiment Analysis](Jupyter/SIT742P03E-CS-Twitter.ipynb) (*Optional*)
 * Week 04: Data Manipulation - Data Visualization
   * [SIT742P04A: Exploratory Data Analysis](Jupyter/SIT742P04A-ExploratoryDA.ipynb)
   * [SIT742P04B: Matplotlib](Jupyter/SIT742P04B-Matplotlib.ipynb)  (*Optional*)
   * [SIT742P04C: Pyplot](Jupyter/SIT742P04C-Pyplot.ipynb)  (*Optional*)
+  * [SIT742P04D: Association Rule Mining](Jupyter/SIT742P04D-ARMining.ipynb)
 * Week 05: Data Manipulation - Text Analysis
   * [SIT742P05A: Text Preprocessing](Jupyter/SIT742P05A-TextPreprocessing.ipynb)
   * [SIT742P05B: Generating Text Features](Jupyter/SIT742P05B-TextFeatures.ipynb) 
   * [SIT742P05C: More on Regular Expression](Jupyter/SIT742P05C-MoreRegEx.ipynb)  (*Optional*)
+  * [SIT742P05D: Case Study: Web Log Analysis](Jupyter/SIT742P05D-CS-Weblog.ipynb)
 * Week 06: Data Analytics - Big Data Platform (I)
   * [SIT742P06A: Apache Spark](Jupyter/SIT742P06A-Spark.ipynb)
   * [SIT742P06B: Case Study: Word Counting in Text](Jupyter/SIT742P06B-CS-WordCount.ipynb)  (*Optional*)
@@ -74,6 +77,9 @@ You can safely skip those sessions that are marked with *Optional*
   
 
 ### `Assessment` 
+
+* 2021 Assessment Tasks 
+  * To be released soon...
 
 * 2020 Assessment Tasks 
   * [2020 Assessment Task 1](Assessment/2020/SIT742Task1.ipynb) 
