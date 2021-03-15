@@ -1,0 +1,10 @@
+Apple,Bread,Banana
+Beer,Book,Water,Beer
+Beer,Book,Water,Soda
+Beer,Bread,Water
+Beer,Book,Water,Soda
+Diaper,Water,Pizza,Soda
+Diaper,Water,Pizza,Soda
+Apple,Bread,Cherry
+Beer,Bread
+Beer,Book,Water,Pizza
