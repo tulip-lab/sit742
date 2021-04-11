@@ -80,7 +80,7 @@ You can safely skip those sessions that are marked with *Optional*
 
 * 2021 Assessment Tasks 
   * [2021 Assessment Task 1](Assessment/2021/SIT742Task1.ipynb) 
-  * Task 2 to be released soon...
+  * [2021 Assessment Task 2](Assessment/2021/SIT742Task2.ipynb) 
 
 * 2020 Assessment Tasks 
   * [2020 Assessment Task 1](Assessment/2020/SIT742Task1.ipynb) 
