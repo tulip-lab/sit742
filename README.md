@@ -62,6 +62,7 @@ You can safely skip those sessions that are marked with *Optional*
 * Week 08: Data Analytics - Machine Learning (I)
   * [SIT742P08A: SciPy and Scikit Packages](Jupyter/SIT742P08A-SciPyScikit.ipynb)
   * [SIT742P08B: Supervised Learning](Jupyter/SIT742P08B-Supervised.ipynb)
+  * [SIT742P08C: Arima](Jupyter/SIT742P08C-ARIMA.ipynb)
 * Week 09: Data Analytics - Machine Learning (II)
   * [SIT742P09A: Unsupervised Learning](Jupyter/SIT742P09A-Unsupervised.ipynb)
   * [SIT742P09B: Anomaly Detection](Jupyter/SIT742P09B-AbnomalyDetection.ipynb)  (*Optional*)
