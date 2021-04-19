@@ -55,7 +55,6 @@ You can safely skip those sessions that are marked with *Optional*
 * Week 06: Data Analytics - Big Data Platform (I)
   * [SIT742P06A: Apache Spark](Jupyter/SIT742P06A-Spark.ipynb)
   * [SIT742P06B: Case Study: Word Counting in Text](Jupyter/SIT742P06B-CS-WordCount.ipynb)  (*Optional*)
-  * [SIT742P06C: Case Study: Web Log Analysis](Jupyter/SIT742P06C-CS-Weblog.ipynb)
 * Week 07: Data Analytics - Big Data Platform (II)
   * [SIT742P07A: Apache Spark SQL](Jupyter/SIT742P07A-SparkSQL.ipynb)
   * [SIT742P07B: Apache Spark MLlib (1)](Jupyter/SIT742P07B-MLlib-DataType.ipynb)
