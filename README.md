@@ -67,13 +67,13 @@ You can safely skip those sessions that are marked with *Optional*
   * [SIT742P09A: Unsupervised Learning](Jupyter/SIT742P09A-Unsupervised.ipynb)
   * [SIT742P09B: Anomaly Detection](Jupyter/SIT742P09B-AbnomalyDetection.ipynb)  (*Optional*)
   * [SIT742P09C: Isolation Forest](Jupyter/SIT742P09C-IsolationForest.ipynb)  (*Optional*)
-* Week 10: Data Analytics - Distributed Machine Learning 
-  * [SIT742P10A: Apache Spark MLlib (3)](Jupyter/SIT742P10A-MLlib-Supervised.ipynb)
-  * [SIT742P10B: Apache Spark MLlib (4)](Jupyter/SIT742P10B-MLlib-Unsupervised.ipynb)
-  * [SIT742P10C: Case Study - Classification](Jupyter/SIT742P10C-CS-Classification.ipynb) (*Optional*)
-* Week 11: Data Analytics - Machine Learning System
-  * [SIT742P11A: Case Study - Prediction](Jupyter/SIT742P11A-CS-Prediction.ipynb) (*Optional*)
-  * [SIT742P11B: Machine Learning System](Jupyter/SIT742P11B-MLSystem.ipynb) 
+* Week 10: Data Analytics - Machine Learning System
+  * [SIT742P10A: Case Study - Prediction](Jupyter/SIT742P10A-CS-Prediction.ipynb) (*Optional*)
+  * [SIT742P10B: Machine Learning System](Jupyter/SIT742P10B-MLSystem.ipynb) 
+* Week 11: Data Analytics - Distributed Machine Learning 
+  * [SIT742P11A: Apache Spark MLlib (3)](Jupyter/SIT742P11A-MLlib-Supervised.ipynb)
+  * [SIT742P11B: Apache Spark MLlib (4)](Jupyter/SIT742P11B-MLlib-Unsupervised.ipynb)
+  * [SIT742P11C: Case Study - Classification](Jupyter/SIT742P11C-CS-Classification.ipynb) (*Optional*)
   
 
 ### `Assessment` 
