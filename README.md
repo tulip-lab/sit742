@@ -40,7 +40,7 @@ You are recommended to use Cloud platform to run the materials, such as:
 - [Google Colab](http://colab.research.google.com)
 
 | Module  |  Category  | Topic |  ULOs | Practical Activities |
-| :----: |  :---: | ------|-------| :-----: | 
+| :----: |  :---: | ------|-------| :----- | 
 | :one: | Preliminary | [Unit Induction](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |
 | :two: | Preliminary | [Python Foundations](M02-Python/README.md) | [ULO4, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | <ul><li>[M02C-DataTypes](M02-Python/M02C-DataTypes.ipynb)</li><li> [M02D-ControlFlow](M02-Python/M02D-ControlFlow.ipynb)</li><li> [M02F-Files](M02-Python/M02F-Files.ipynb)</li><li> [M02G-AdvDataTypes](M02-Python/M02G-AdvDataTypes.ipynb)</li> </ul>|
 | :three: | Core | [Data Science Overview](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Exercise-orange)](M02-Exercises.md) |
@@ -51,7 +51,7 @@ You are recommended to use Cloud platform to run the materials, such as:
 
 ## Contributors 
 
-Thanks goes to these wonderful people :tulip: ![Github All Contributors](https://img.shields.io/github/all-contributors/tulip-lab/sit742)
+Thanks goes to these wonderful people :tulip:  
 
 
 <a href="https://github.com/tulip-lab/sit742/graphs/contributors">
