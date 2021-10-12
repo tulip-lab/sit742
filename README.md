@@ -11,7 +11,7 @@
 
 ---
 
-# SIT742: Modern Data Science 
+# SIT742: Big Data Analytics 
 
 ![Cloud-First](Jupyter/figures/CloudFirst.png)
 
@@ -29,7 +29,7 @@ Prepared by **SIT742 Teaching Team**
 
 ## Lab Session related ScreenCasting on YouTube
 
-- [SIT742: Modern Data Science](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
+- [SIT742: Big Data Analytics](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
 
 Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 
@@ -48,11 +48,11 @@ The sister repository of this one can be found at (access internally to [TULIP L
 | Module  |  Category  | Topic |  Module Notebooks |
 | :----: |  :---: | -------| :----- | 
 | :one: | Preliminary | Unit Induction  |    |
-| :two: | Preliminary | Python Foundations |   <ul><li>[M02C-DataTypes](Jupyter/M02-Python/M02C-DataTypes.ipynb)</li><li>[M02D-ControlFlow](Jupyter/M02-Python/M02D-ControlFlow.ipynb)</li><li>[M02E-PoP-OOP](Jupyter/M02-Python/M0E-PoP-OOP.ipynb)</li><li>[M02F-Files](Jupyter/M02-Python/M02F-Files.ipynb)</li><li>[M02G-AdvDataTypes](Jupyter/M02-Python/M02G-AdvDataTypes.ipynb)</li><li>[M02H-Packages](Jupyter/M02-Python/M02H-Packages.ipynb)</li></ul>|
-| :three: | Core | Data Science  |   <ul><li>[M03D-DataAcquisition-I](Jupyter/M03-DataScience/M03D-DataAcquisition-I.ipynb)</li><li>[M03E-DataAcquisition-II](Jupyter/M03-DataScience/M03E-DataAcquisition-II.ipynb)</li></ul> |
+| :two: | Preliminary | Python |   <ul><li>[M02C-DataTypes](Jupyter/M02-Python/M02C-DataTypes.ipynb)</li><li>[M02D-ControlFlow](Jupyter/M02-Python/M02D-ControlFlow.ipynb)</li><li>[M02E-PoP-OOP](Jupyter/M02-Python/M0E-PoP-OOP.ipynb)</li><li>[M02F-Files](Jupyter/M02-Python/M02F-Files.ipynb)</li><li>[M02G-AdvDataTypes](Jupyter/M02-Python/M02G-AdvDataTypes.ipynb)</li><li>[M02H-Packages](Jupyter/M02-Python/M02H-Packages.ipynb)</li></ul>|
+| :three: | Core | Big Data |   <ul><li>[M03D-DataAcquisition-I](Jupyter/M03-DataScience/M03D-DataAcquisition-I.ipynb)</li><li>[M03E-DataAcquisition-II](Jupyter/M03-DataScience/M03E-DataAcquisition-II.ipynb)</li></ul> |
 | :four: | Core | Data Manipulation |   <ul><li>[M04A-DataWrangling](Jupyter/M04-DataManipulation/M04A-DataWrangling.ipynb)</li><li>[M04B-EDA](Jupyter/M04-DataManipulation/M04B-EDA.ipynb)</li><li>[M04F-Spark](Jupyter/M04-DataManipulation/M04F-Spark.ipynb)</li><li>[M04G-SparkSQL](Jupyter/M04-DataManipulation/M04G-SparkSQL.ipynb)</li><li>[M04H-CS-WordCount](Jupyter/M04-DataManipulation/M04H-CS-WordCount.ipynb)</li></ul>   |
 | :five: | Core | Data Analytics  |   <ul><li>[M05B-ARIMA](Jupyter/M05-DataAnalytics/M05B-ARIMA.ipynb)</li><li>[M05C-IsolationForest](Jupyter/M05-DataAnalytics/M05C-IsolationForest.ipynb)</li><li>[M05E-ARMining](Jupyter/M05-DataAnalytics/M05E-ARMining.ipynb)</li></ul>   |
-| :six: | Advanced | Advanced Topics  |  <ul><li>[M06A-IBMDP-30Seconds](Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb)</li><li>[M06B-IBMDP-Exploration](Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb)</li></ul>   |
+| :six: | Advanced | Advanced |  <ul><li>[M06A-IBMDP-30Seconds](Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb)</li><li>[M06B-IBMDP-Exploration](Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb)</li></ul>   |
 
 
 ## Contributors 
