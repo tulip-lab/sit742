@@ -13,7 +13,7 @@
 
 # SIT742: Big Data Analytics 
 
-![Cloud-First](Jupyter/figures/CloudFirst.png)
+![Cloud-First](Jupyter/image/CloudFirst.png)
 
 ---
 
