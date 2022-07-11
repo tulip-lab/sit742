@@ -11,7 +11,7 @@
 
 ---
 
-# SIT742: Modern Data Sceince 
+# SIT742: Modern Data Science 
 
 ![Cloud-First](Jupyter/image/CloudFirst.png)
 
@@ -29,7 +29,7 @@ Prepared by **SIT742 Teaching Team**
 
 ## Lab Session related ScreenCasting on YouTube
 
-- [SIT742: Modern Data Sceince](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
+- [SIT742: Modern Data Science](https://www.youtube.com/channel/UCa4FyLtoc_2cNFOVT6bSMLQ)  
 
 Prepared by **[TULIP Lab](http://www.tulip.org.au), Australia**
 
