@@ -21,7 +21,7 @@
 - You are free to use, change and distribute this package.
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/sit742](https://github.com/tulip-lab/sit742/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/pulls) 
-- Point of Contact :point_right: : [A/Prof. Gang Li](https://github.com/tuliplab)
+- Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **SIT742 Teaching Team** 
 
