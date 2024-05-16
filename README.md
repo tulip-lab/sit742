@@ -42,8 +42,8 @@ You are recommended to use Cloud platform to run the materials, such as:
 - [Google Colab](http://colab.research.google.com): which will be used in SIT742 practical classes.
 - [Databricks - Community version](https://community.cloud.databricks.com/): the original contributor to [Apache Spark](https://spark.apache.org/).
 
-The sister repository of this one can be found at (access internally to [TULIP Lab](https://github.com/tulip-lab) members): 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742--CloudFirst-brightgreen?style=plastic)](https://github.com/tulip-lab/SIT742-CloudFirst), which is the source repository of CloudDeakin SIT742 site.
+The sister repository of this one can be found at (key resources are password protected, only available in CloudDeakin): 
+[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](https://github.com/tulip-lab/modern-data-science), which is more frequently updated with the Readings than CloudDeakin SIT742 site, but it tailored out all the key readings. 
 
 | Module  |  Category  | Topic |  Module Notebooks |
 | :----: |  :---: | -------| :----- | 
